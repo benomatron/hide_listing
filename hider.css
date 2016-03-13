@@ -1,0 +1,17 @@
+.hidden {
+    display: none; 
+}
+
+.hider {
+    cursor: pointer;
+    font-size: 14px;
+    color: #aaa;
+}
+
+.hid .hider {
+    color: #FF3300;
+}
+
+.hiddens {
+    cursor: pointer;
+}
